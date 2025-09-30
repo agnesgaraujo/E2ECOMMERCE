@@ -1,0 +1,11 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="300" fill="#F5F5F5"/>
+<!-- Tênis de corrida -->
+<ellipse cx="150" cy="180" rx="80" ry="40" fill="#2E7D32"/>
+<ellipse cx="150" cy="160" rx="70" ry="35" fill="#4CAF50"/>
+<rect x="120" y="140" width="60" height="20" rx="10" fill="#1B5E20"/>
+<rect x="130" y="130" width="40" height="15" rx="7" fill="#388E3C"/>
+<circle cx="140" cy="137" r="3" fill="#FFC107"/>
+<circle cx="160" cy="137" r="3" fill="#FFC107"/>
+<text x="150" y="250" font-family="Arial, sans-serif" font-size="16" fill="#333" text-anchor="middle">👟 Tênis Run Fast</text>
+</svg>

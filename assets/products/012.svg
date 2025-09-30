@@ -1,0 +1,9 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="300" fill="#EFEBE9"/>
+<!-- Luminária LED -->
+<rect x="140" y="100" width="20" height="80" fill="#5D4037"/>
+<ellipse cx="150" cy="100" rx="30" ry="15" fill="#FFC107"/>
+<ellipse cx="150" cy="90" rx="25" ry="12" fill="#FFD54F"/>
+<circle cx="150" cy="90" r="8" fill="#FFEB3B"/>
+<text x="150" y="250" font-family="Arial, sans-serif" font-size="16" fill="#333" text-anchor="middle">💡 Luminária LED</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="300" fill="#FFEBEE"/>
+<!-- Bola de futebol -->
+<circle cx="150" cy="150" r="50" fill="#4CAF50"/>
+<circle cx="150" cy="150" r="45" fill="#66BB6A"/>
+<path d="M150 100 L150 200 M100 150 L200 150" stroke="#2E7D32" stroke-width="3"/>
+<circle cx="150" cy="150" r="8" fill="#1B5E20"/>
+<text x="150" y="250" font-family="Arial, sans-serif" font-size="16" fill="#333" text-anchor="middle">⚽ Bola de Futebol</text>
+</svg>

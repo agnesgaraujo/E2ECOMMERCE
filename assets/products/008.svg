@@ -1,0 +1,10 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="300" fill="#F3E5F5"/>
+<!-- Relógio smart -->
+<circle cx="150" cy="150" r="50" fill="#424242"/>
+<circle cx="150" cy="150" r="40" fill="#616161"/>
+<circle cx="150" cy="150" r="30" fill="#757575"/>
+<circle cx="150" cy="150" r="20" fill="#9E9E9E"/>
+<rect x="140" y="140" width="20" height="20" rx="2" fill="#212121"/>
+<text x="150" y="250" font-family="Arial, sans-serif" font-size="16" fill="#333" text-anchor="middle">⌚ Relógio Smart</text>
+</svg>
